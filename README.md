@@ -8,3 +8,4 @@ Dies umfasst:
 
 * Liste im perfekten Kompositum
 * Binärbaum im Kompositum
+* Graphen mit Adjazenzmatrix
