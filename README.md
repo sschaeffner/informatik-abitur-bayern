@@ -12,3 +12,4 @@ Dies umfasst:
 	* Graphen mit Adjazenzmatrix
 * Q12
 	* erkennender endlicher Automat
+	* Erzeuger-Verbraucher-Problem
