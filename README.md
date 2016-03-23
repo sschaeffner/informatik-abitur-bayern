@@ -6,3 +6,4 @@ Eine Orientierung erfolgt an den Schulbüchern "Informatik Oberstufe 1 - Datenst
 
 Dies umfasst:
 
+* Liste im perfekten Kompositum
