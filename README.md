@@ -6,6 +6,9 @@ Eine Orientierung erfolgt an den Schulbüchern "Informatik Oberstufe 1 - Datenst
 
 Dies umfasst:
 
-* Liste im perfekten Kompositum
-* Binärbaum im Kompositum
-* Graphen mit Adjazenzmatrix
+* Q11
+	* Liste im perfekten Kompositum
+	* Binärbaum im Kompositum
+	* Graphen mit Adjazenzmatrix
+* Q12
+	* erkennender endlicher Automat
